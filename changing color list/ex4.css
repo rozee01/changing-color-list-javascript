@@ -1,0 +1,11 @@
+#a,#b,#c,#d{
+    color: black;
+    border: 1px solid black; padding: 5px;
+    width: 50%;
+    
+}
+#titre{
+    color: violet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
